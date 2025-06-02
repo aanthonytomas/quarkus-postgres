@@ -12,7 +12,7 @@ This project demonstrates how to connect a Quarkus application to a PostgreSQL d
 ## Screenshot
 
 <!-- Add your screenshot here after uploading it to the repository -->
-![Screenshot](screenshot.png)
+![Screenshot from 2025-06-02 10-08-05](https://github.com/user-attachments/assets/3e57b56a-3547-47c5-9b65-542687539876)
 
 ## Prerequisites
 
